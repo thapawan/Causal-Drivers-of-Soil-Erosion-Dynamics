@@ -1,0 +1,34 @@
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Geospatial
+xarray>=2023.0.0
+rioxarray>=0.15.0
+rasterio>=1.3.0
+geopandas>=0.14.0
+shapely>=2.0.0
+folium>=0.14.0
+
+# Earth Engine (for rainfall data)
+earthengine-api>=0.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+cartopy>=0.22.0
+
+# Parallel processing
+dask>=2023.0.0
+numba>=0.57.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
